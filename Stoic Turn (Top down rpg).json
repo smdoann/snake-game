@@ -570,6 +570,210 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Elements/7bc5086a0a1564a6fb26cf28e742a213f45d31b639203495f16d69cae57c8d9e_tiled_Cloud layer 2.png",
           "name": "tiled_Cloud layer 2.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rubber Duck.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Rubber Duck.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Pixel art items/Pixel Mart/Item/dd70c51468f802b08b8f2e02cd562964f4408b5c0483b91d5c380954e6b449ce_Rubber Duck.png",
+          "name": "Rubber Duck.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/White Decorated Button_Hovered2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "aac119ea43bd2b8fdb1f04a469420d61103b5199ddb715aa4904d093816d65dc_White Decorated Button_Hovered.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/aac119ea43bd2b8fdb1f04a469420d61103b5199ddb715aa4904d093816d65dc_White Decorated Button_Hovered.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Magic Sparkle Trail_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "0c07f58746eeb04b188797233eaa68c4aa7efbb2f38f0c6ddd8b730a1afc60aa_Magic Sparkle Trail_2.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Fairy/0c07f58746eeb04b188797233eaa68c4aa7efbb2f38f0c6ddd8b730a1afc60aa_Magic Sparkle Trail_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Magic Sparkle Trail_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "d2e55001222fa96dc28986547a047e4da77be2257344f29baa2674ab430250be_Magic Sparkle Trail_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Fairy/d2e55001222fa96dc28986547a047e4da77be2257344f29baa2674ab430250be_Magic Sparkle Trail_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Magic Sparkle Trail_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "676a753e87b5d0350f570c212797abccfb4a233d68b0d6685362e22af214271f_Magic Sparkle Trail_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Fairy/676a753e87b5d0350f570c212797abccfb4a233d68b0d6685362e22af214271f_Magic Sparkle Trail_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Magic Sparkle Trail_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "f6551f9e3ab7a3c5be2e6f892ee6f8dc5276b179a6281b0d6a6956f9f0dbf11c_Magic Sparkle Trail_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 6/Fairy/f6551f9e3ab7a3c5be2e6f892ee6f8dc5276b179a6281b0d6a6956f9f0dbf11c_Magic Sparkle Trail_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player_outlined idle down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "beb7747891f3ae0d97f6c6ab1eadd404349cd3a97c6bb3d65a0e52c44b49f7bd_Player_outlined idle down_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/beb7747891f3ae0d97f6c6ab1eadd404349cd3a97c6bb3d65a0e52c44b49f7bd_Player_outlined idle down_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player_outlined walk down_2_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a0283be70d3704165e33413c04e12de5406bc91c15a1732d9228a41fe42ff7ed_Player_outlined walk down_2_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/a0283be70d3704165e33413c04e12de5406bc91c15a1732d9228a41fe42ff7ed_Player_outlined walk down_2_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player_outlined walk right_1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "839031b97a3a5a529c368ef919af01978e2f62c6a6074837386567dc551cc648_Player_outlined walk right_1_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/839031b97a3a5a529c368ef919af01978e2f62c6a6074837386567dc551cc648_Player_outlined walk right_1_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player_outlined idle right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a3549d6201ce87ddaf29e7f44cde15758e6a70419fe6e24c9076e3c9afab6d5d_Player_outlined idle right_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/a3549d6201ce87ddaf29e7f44cde15758e6a70419fe6e24c9076e3c9afab6d5d_Player_outlined idle right_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player_outlined idle left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5520faf630ba83453ae5555dba4910efb8639cca82d37b67cd0e5d5d7c0da71f_Player_outlined idle left_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/5520faf630ba83453ae5555dba4910efb8639cca82d37b67cd0e5d5d7c0da71f_Player_outlined idle left_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player_outlined walk left_2_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "af35ee6dce6b7c3af846e0405f26c4829528fbca30f75a49a047e94a5faa39d7_Player_outlined walk left_2_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/af35ee6dce6b7c3af846e0405f26c4829528fbca30f75a49a047e94a5faa39d7_Player_outlined walk left_2_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player_outlined idle up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3bec0473110c32f55e16b6436b7c46c04e6002829b75ab015330f1234562bfeb_Player_outlined idle up_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/3bec0473110c32f55e16b6436b7c46c04e6002829b75ab015330f1234562bfeb_Player_outlined idle up_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player_outlined walk up_1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "93473aa5ce4bcbf6a0261cce0e161df5671d8ee99c8bc189c7fe833ab535b01a_Player_outlined walk up_1_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/93473aa5ce4bcbf6a0261cce0e161df5671d8ee99c8bc189c7fe833ab535b01a_Player_outlined walk up_1_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player_outlined walk up_2_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3f63b313cc1bd3e4fcfbc9dbf0c57325e275fe3dabb83514ebc2375752ce0cc5_Player_outlined walk up_2_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/3f63b313cc1bd3e4fcfbc9dbf0c57325e275fe3dabb83514ebc2375752ce0cc5_Player_outlined walk up_2_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite2",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -638,7 +842,30 @@
     ]
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "Score",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "folded": true,
+      "name": "ScoreDisplay",
+      "type": "number",
+      "value": 0
+    },
+    {
+      "name": "PlayerSpeed",
+      "type": "number",
+      "value": 200
+    },
+    {
+      "name": "TrailSpeed",
+      "type": "number",
+      "value": 200
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
