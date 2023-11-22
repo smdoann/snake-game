@@ -50,7 +50,7 @@
       "persistentUuid": "15a3b7f4-f78f-4898-9037-58d9fc07eab8",
       "width": 964,
       "x": -6,
-      "y": -1,
+      "y": -3,
       "zOrder": -200,
       "numberProperties": [],
       "stringProperties": [],
@@ -263,8 +263,8 @@
       "name": "NewSprite",
       "persistentUuid": "e1fdf4a7-39fc-4887-a24c-3b110ad9e324",
       "width": 0,
-      "x": 106,
-      "y": 123,
+      "x": 103,
+      "y": 125,
       "zOrder": 2005,
       "numberProperties": [],
       "stringProperties": [],
@@ -364,6 +364,112 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "bomb",
+      "persistentUuid": "a18a2859-c65b-4342-8629-4fdf89f45a92",
+      "width": 0,
+      "x": 498,
+      "y": 375,
+      "zOrder": 2009,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "bomb",
+      "persistentUuid": "e63acbf3-8071-4505-8e6a-e16b495c6013",
+      "width": 0,
+      "x": 688,
+      "y": 305,
+      "zOrder": 2010,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "bomb",
+      "persistentUuid": "415a83ad-d82f-48b2-a5ba-5e7ecd1a08e9",
+      "width": 0,
+      "x": 510,
+      "y": 175,
+      "zOrder": 2011,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "bomb",
+      "persistentUuid": "6fdb28dd-3135-4877-9b0a-e7f430dacee0",
+      "width": 0,
+      "x": 368,
+      "y": 258,
+      "zOrder": 2012,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "bomb",
+      "persistentUuid": "d3d1eae5-af8b-4b0b-8bb1-0ed236877f8f",
+      "width": 0,
+      "x": 329,
+      "y": 102,
+      "zOrder": 2013,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "bomb",
+      "persistentUuid": "6d0127d6-76e8-45eb-b51d-f78a6e845bad",
+      "width": 0,
+      "x": 196,
+      "y": 316,
+      "zOrder": 2014,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 32,
+      "height": 67,
+      "layer": "Interface",
+      "name": "FlatHeartBar",
+      "persistentUuid": "9fbaeb17-6c9a-4846-84c1-c2de42282fc6",
+      "width": 266,
+      "x": 534,
+      "y": 113,
+      "zOrder": 2015,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -376,6 +482,34 @@
       "variables": [],
       "effects": [],
       "behaviors": [
+        {
+          "name": "Health",
+          "type": "Health::Health",
+          "Health": 100,
+          "CurrentHealth": 0,
+          "MaxHealth": 100,
+          "DamageCooldown": 0,
+          "IsHealthJustDamaged": false,
+          "HealthRegenRate": 0,
+          "HealthRegenDelay": 0,
+          "AllowOverHealing": false,
+          "HitAtLeastOnce": false,
+          "IsJustHealed": false,
+          "CurrentShieldPoints": 0,
+          "MaxShieldPoints": 0,
+          "ShieldDuration": 5,
+          "ShieldRegenRate": 0,
+          "BlockExcessDamage": false,
+          "ShieldRegenDelay": 0,
+          "IsShieldJustDamaged": false,
+          "ChanceToDodge": 0,
+          "DamageToBeApplied": 0,
+          "FlatDamageReduction": 0,
+          "PercentDamageReduction": 0,
+          "IsJustDodged": false,
+          "ShieldDamageTaken": 0,
+          "HealToBeApplied": 0
+        },
         {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior",
@@ -1797,6 +1931,136 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "bomb",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "a58e750a7f074351f00ca54fa599fb9c383dcf55c942a27441d0d799228051e1_Bomb_Shadow.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 4,
+                        "y": 3
+                      },
+                      {
+                        "x": 30,
+                        "y": 3
+                      },
+                      {
+                        "x": 30,
+                        "y": 29
+                      },
+                      {
+                        "x": 4,
+                        "y": 29
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "db57d0bcdc074868304ca46431ac85fcef3f613be5fba73ae0adc26ee2c8629b",
+      "name": "HealthBar",
+      "type": "TiledUnitsBar::TiledUnitsBar",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "UnitWidth": 40,
+        "HideBackground": true,
+        "ShowBackground": false
+      },
+      "childrenContent": {
+        "Background": {
+          "bottomMargin": 0,
+          "height": 16,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "tiled_Tiled Empty UI Heart.png",
+          "tiled": true,
+          "topMargin": 0,
+          "width": 48
+        },
+        "Bar": {
+          "height": 16,
+          "texture": "tiled_Tiled Empty UI Heart.png",
+          "width": 48
+        },
+        "FillBar": {
+          "height": 16,
+          "texture": "tiled_Tiled Filler UI Heart.png",
+          "width": 16
+        }
+      }
+    },
+    {
+      "assetStoreId": "c807d51d4bab0016401aef4d64d10d137f5ac8738ffa15865e1bc81435b9720b",
+      "name": "FlatHeartBar",
+      "type": "TiledUnitsBar::TiledUnitsBar",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "UnitWidth": 90,
+        "HideBackground": true,
+        "ShowBackground": false
+      },
+      "childrenContent": {
+        "Background": {
+          "bottomMargin": 0,
+          "height": 90,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "Flat Heart Empty.png",
+          "tiled": false,
+          "topMargin": 0,
+          "width": 270
+        },
+        "Bar": {
+          "height": 90,
+          "texture": "Flat Heart Empty.png",
+          "width": 90
+        },
+        "FillBar": {
+          "height": 90,
+          "texture": "Flat Heart Filled.png",
+          "width": 90
+        }
+      }
     }
   ],
   "objectsFolderStructure": {
@@ -1849,6 +2113,15 @@
       },
       {
         "objectName": "CollisionDetect"
+      },
+      {
+        "objectName": "bomb"
+      },
+      {
+        "objectName": "HealthBar"
+      },
+      {
+        "objectName": "FlatHeartBar"
       }
     ]
   },
@@ -2342,6 +2615,22 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "Dialogue",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
         {
           "type": {
@@ -2435,6 +2724,24 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Player",
+            "bomb",
+            "",
+            "",
+            ""
+          ]
+        }
+      ],
+      "actions": []
     }
   ],
   "layers": [
@@ -2560,6 +2867,38 @@
           "booleanParameters": {}
         }
       ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Interface",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
     }
   ],
   "behaviorsSharedData": [
@@ -2582,6 +2921,10 @@
     {
       "name": "Flippable",
       "type": "FlippableCapability::FlippableBehavior"
+    },
+    {
+      "name": "Health",
+      "type": "Health::Health"
     },
     {
       "name": "MultitouchButton",

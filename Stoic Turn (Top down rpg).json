@@ -774,6 +774,238 @@
         "name": "NewSprite2",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bomb_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "a58e750a7f074351f00ca54fa599fb9c383dcf55c942a27441d0d799228051e1_Bomb_Shadow.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/a58e750a7f074351f00ca54fa599fb9c383dcf55c942a27441d0d799228051e1_Bomb_Shadow.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Castles Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "95a29ad64dac1d147725f9a7e6e28396b918fa3b06113400dac1abd5c14dde47_tiled_Castles Background.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/95a29ad64dac1d147725f9a7e6e28396b918fa3b06113400dac1abd5c14dde47_tiled_Castles Background.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/MPLUS1p-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "72daf4dcb53d21803dfb807249302a05c8875978706bda48a6a9770a5cdaa608_MPLUS1p-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Google Fonts/Japanese/72daf4dcb53d21803dfb807249302a05c8875978706bda48a6a9770a5cdaa608_MPLUS1p-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Start_Alt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "af87394b4707010a2281763087265785806d2b7186ca81954397d17e923d5b3c_Start_Alt.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Xelu Free Controller and Key Prompts/Console Inputs/Xbox 360/af87394b4707010a2281763087265785806d2b7186ca81954397d17e923d5b3c_Start_Alt.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Money Symbol.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Money Symbol.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/c6880cf2ec86293c9cec2dac020ae7ca53d78047fa2ec6c1bfd88d43563ddb3b_Money Symbol.png",
+          "name": "Money Symbol.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Heart_Spinning_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Heart_Spinning_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/d9929d9e7b50ab626226ec30e0c7dd5244e4697f28a89066846f2a7716ff0a1a_Heart_Spinning_1.png",
+          "name": "Heart_Spinning_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Heart_Spinning_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Heart_Spinning_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/47cb0fdb4ab4e7b535e3e620f2e24e3bcf638ec17c02295149dd32ebd011840d_Heart_Spinning_2.png",
+          "name": "Heart_Spinning_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Heart_Spinning_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Heart_Spinning_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/e11069acc11e2345b585000e69c8eb306c711dedb8ef4b4b254995c7d1f3aea4_Heart_Spinning_3.png",
+          "name": "Heart_Spinning_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Heart_Spinning_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Heart_Spinning_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/622b22a6123a579433c65142303eb06a5f7c915330253007a3f06b423b8dcbfc_Heart_Spinning_4.png",
+          "name": "Heart_Spinning_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Summer Tile Water Waves.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Summer Tile Water Waves.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Worlds/Summer/Background/00e16cdcb00f52923079a40bea539e158f1e4c55ce0b1ae3b84d61802ae3dc78_tiled_Summer Tile Water Waves.png",
+          "name": "tiled_Summer Tile Water Waves.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Background Mountains.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Background Mountains.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Elements/6c79e6250a00b8d4853af8a6bffa7baa24388a85c597b8df3bfb12b726f754fb_tiled_Background Mountains.png",
+          "name": "tiled_Background Mountains.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grey Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b43e0035dca80ea2fad5c5d65de926dae0185038e5f9cb21d5f20234f30d1c76_Grey Button_Hovered.png",
+          "name": "Grey Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grey Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/da7fc2efa0882eb5dfa0266315f2483c2f68d86a6751dc309ea9e9d0dd4759ba_Grey Button_Idle.png",
+          "name": "Grey Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grey Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grey Button_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/49c35e14af0e1f7aae407455cb944de96328955870e5f1500f63723ad879a42e_Grey Button_Pressed.png",
+          "name": "Grey Button_Pressed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Tiled Empty UI Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tiled Empty UI Heart.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/688519c5bb4abaf5805518633f2ff810928e29164497fb5c13dabf97044be843_tiled_Tiled Empty UI Heart.png",
+          "name": "tiled_Tiled Empty UI Heart.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Tiled Filler UI Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Tiled Filler UI Heart.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/5b5c6c85ec4e1f5b6688be565c9a06920a76ee191915738afd61da1481fd6493_tiled_Tiled Filler UI Heart.png",
+          "name": "tiled_Tiled Filler UI Heart.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Heart Empty.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Heart Empty.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/c0bac0102b6467c3f428f093a162ad8aedc069b2bf3cbe65f344353c3695ecdf_Flat Heart Empty.png",
+          "name": "Flat Heart Empty.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Flat Heart Filled.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Flat Heart Filled.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/4158f811cf0bb821a58f98d8cb78f2257ee590210091ab56b46703e94044ee7a_Flat Heart Filled.png",
+          "name": "Flat Heart Filled.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -864,9 +1096,19 @@
       "name": "TrailSpeed",
       "type": "number",
       "value": 200
+    },
+    {
+      "folded": true,
+      "name": "PlayerHealth",
+      "type": "number",
+      "value": 3
     }
   ],
   "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/start-scene"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/overworld"
@@ -878,6 +1120,10 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/tiledunitsbar"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/spritemultitouchjoystick"
