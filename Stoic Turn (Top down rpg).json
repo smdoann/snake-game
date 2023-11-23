@@ -1006,6 +1006,71 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/4158f811cf0bb821a58f98d8cb78f2257ee590210091ab56b46703e94044ee7a_Flat Heart Filled.png",
           "name": "Flat Heart Filled.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player Face_Silhouette.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1898f1b883ae62ceb616261b45fa15d94af50b20533a6cb1f733bfab08fb4325_Player Face_Silhouette.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/1898f1b883ae62ceb616261b45fa15d94af50b20533a6cb1f733bfab08fb4325_Player Face_Silhouette.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player_outlined walk right_2_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "4da7846d12467b24a35732e21cccb2e782968ed7b7af3675704928b974e32423_Player_outlined walk right_2_1.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/4da7846d12467b24a35732e21cccb2e782968ed7b7af3675704928b974e32423_Player_outlined walk right_2_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player Face_Outlined.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "e4bb1b5d607d16688086b2f5d37302d5526ca9fc1a9c3644487c69d59d915f8f_Player Face_Outlined.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/e4bb1b5d607d16688086b2f5d37302d5526ca9fc1a9c3644487c69d59d915f8f_Player Face_Outlined.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player_idle down.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "5d569e586628c927048fde5a05857f93fd72a96ad5e974508a78660594eaf03f_Player_idle down.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/5d569e586628c927048fde5a05857f93fd72a96ad5e974508a78660594eaf03f_Player_idle down.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player Face_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3a6ea4cbda1c59eaee133840715b12f37782875d6c0111e8af581048503e9568_Player Face_Idle.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/3a6ea4cbda1c59eaee133840715b12f37782875d6c0111e8af581048503e9568_Player Face_Idle.png",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []

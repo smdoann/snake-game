@@ -461,7 +461,7 @@
       "depth": 32,
       "height": 67,
       "layer": "Interface",
-      "name": "FlatHeartBar",
+      "name": "HealthBar",
       "persistentUuid": "9fbaeb17-6c9a-4846-84c1-c2de42282fc6",
       "width": 266,
       "x": 534,
@@ -1122,6 +1122,318 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "3f63b313cc1bd3e4fcfbc9dbf0c57325e275fe3dabb83514ebc2375752ce0cc5_Player_outlined walk up_2_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 16
+                      },
+                      {
+                        "x": 2,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "hurt",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "1898f1b883ae62ceb616261b45fa15d94af50b20533a6cb1f733bfab08fb4325_Player Face_Silhouette.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 16
+                      },
+                      {
+                        "x": 2,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "5d569e586628c927048fde5a05857f93fd72a96ad5e974508a78660594eaf03f_Player_idle down.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 16
+                      },
+                      {
+                        "x": 2,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "1898f1b883ae62ceb616261b45fa15d94af50b20533a6cb1f733bfab08fb4325_Player Face_Silhouette.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 16
+                      },
+                      {
+                        "x": 2,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "5d569e586628c927048fde5a05857f93fd72a96ad5e974508a78660594eaf03f_Player_idle down.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 16
+                      },
+                      {
+                        "x": 2,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dead",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "3a6ea4cbda1c59eaee133840715b12f37782875d6c0111e8af581048503e9568_Player Face_Idle.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 16
+                      },
+                      {
+                        "x": 2,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "1898f1b883ae62ceb616261b45fa15d94af50b20533a6cb1f733bfab08fb4325_Player Face_Silhouette.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 16
+                      },
+                      {
+                        "x": 2,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "3a6ea4cbda1c59eaee133840715b12f37782875d6c0111e8af581048503e9568_Player Face_Idle.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 8,
+                    "y": 16
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 13
+                      },
+                      {
+                        "x": 14,
+                        "y": 16
+                      },
+                      {
+                        "x": 2,
+                        "y": 16
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "1898f1b883ae62ceb616261b45fa15d94af50b20533a6cb1f733bfab08fb4325_Player Face_Silhouette.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -1993,43 +2305,8 @@
       ]
     },
     {
-      "assetStoreId": "db57d0bcdc074868304ca46431ac85fcef3f613be5fba73ae0adc26ee2c8629b",
-      "name": "HealthBar",
-      "type": "TiledUnitsBar::TiledUnitsBar",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "UnitWidth": 40,
-        "HideBackground": true,
-        "ShowBackground": false
-      },
-      "childrenContent": {
-        "Background": {
-          "bottomMargin": 0,
-          "height": 16,
-          "leftMargin": 0,
-          "rightMargin": 0,
-          "texture": "tiled_Tiled Empty UI Heart.png",
-          "tiled": true,
-          "topMargin": 0,
-          "width": 48
-        },
-        "Bar": {
-          "height": 16,
-          "texture": "tiled_Tiled Empty UI Heart.png",
-          "width": 48
-        },
-        "FillBar": {
-          "height": 16,
-          "texture": "tiled_Tiled Filler UI Heart.png",
-          "width": 16
-        }
-      }
-    },
-    {
       "assetStoreId": "c807d51d4bab0016401aef4d64d10d137f5ac8738ffa15865e1bc81435b9720b",
-      "name": "FlatHeartBar",
+      "name": "HealthBar",
       "type": "TiledUnitsBar::TiledUnitsBar",
       "variables": [],
       "effects": [],
@@ -2119,13 +2396,27 @@
       },
       {
         "objectName": "HealthBar"
-      },
-      {
-        "objectName": "FlatHeartBar"
       }
     ]
   },
   "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "TiledUnitsBar::TiledUnitsBar::SetValue"
+          },
+          "parameters": [
+            "HealthBar",
+            "=",
+            "Player.Health::Health()",
+            ""
+          ]
+        }
+      ]
+    },
     {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [
@@ -2219,7 +2510,30 @@
     {
       "type": "BuiltinCommonInstructions::Standard",
       "conditions": [],
-      "actions": []
+      "actions": [
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "CloudLayer4",
+            "Opacity",
+            "=",
+            "100"
+          ]
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "CloudLayer2",
+            "Opacity",
+            "=",
+            "100"
+          ]
+        }
+      ]
     },
     {
       "colorB": 228,
@@ -2500,7 +2814,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "Dialogue",
+      "name": "Duck ",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [],
@@ -2607,7 +2921,7 @@
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "Dialogue",
+      "name": "Damage",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [],
@@ -2615,15 +2929,257 @@
     },
     {
       "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [],
-      "actions": []
+      "conditions": [
+        {
+          "type": {
+            "value": "CollisionNP"
+          },
+          "parameters": [
+            "Player",
+            "bomb",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "Player",
+            "Animation",
+            "=",
+            "\"hurt\""
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::IsDead"
+          },
+          "parameters": [
+            "Player",
+            "Health",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::IsDamageCooldownActive"
+          },
+          "parameters": [
+            "Player",
+            "Health",
+            "="
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Health::Health::Hit"
+          },
+          "parameters": [
+            "Player",
+            "Health",
+            "1",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Health::Health::IsJustDamaged"
+          },
+          "parameters": [
+            "Player",
+            "Health",
+            "="
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "Attack.wav",
+            "",
+            "20",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "Player",
+            "Animation",
+            "=",
+            "\"hurt\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "Return to Normal"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "Player",
+            "Animation",
+            "=",
+            "\"hurt\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+          },
+          "parameters": [
+            "Player",
+            "Animation"
+          ]
+        },
+        {
+          "type": {
+            "value": "Health::Health::IsDead"
+          },
+          "parameters": [
+            "Player",
+            "Health",
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Arreter"
+          },
+          "parameters": [
+            "Player"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Comment",
+      "color": {
+        "b": 109,
+        "g": 230,
+        "r": 255,
+        "textB": 0,
+        "textG": 0,
+        "textR": 0
+      },
+      "comment": "Death"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "Health::Health::IsDead"
+          },
+          "parameters": [
+            "Player",
+            "Health",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::Name"
+          },
+          "parameters": [
+            "Player",
+            "Animation",
+            "=",
+            "\"hurt\""
+          ]
+        },
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+          },
+          "parameters": [
+            "Player",
+            "Animation"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+          },
+          "parameters": [
+            "Player",
+            "Animation",
+            "=",
+            "\"dead\""
+          ]
+        },
+        {
+          "type": {
+            "value": "PlaySound"
+          },
+          "parameters": [
+            "",
+            "Attack.wav",
+            "",
+            "20",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Delete"
+          },
+          "parameters": [
+            "Player",
+            ""
+          ]
+        }
+      ]
     },
     {
       "colorB": 228,
       "colorG": 176,
       "colorR": 74,
       "creationTime": 0,
-      "name": "Dialogue",
+      "name": "Score",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
       "events": [],
@@ -2724,24 +3280,6 @@
           ]
         }
       ]
-    },
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "CollisionNP"
-          },
-          "parameters": [
-            "Player",
-            "bomb",
-            "",
-            "",
-            ""
-          ]
-        }
-      ],
-      "actions": []
     }
   ],
   "layers": [
