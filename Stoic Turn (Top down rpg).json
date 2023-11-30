@@ -11,7 +11,7 @@
     "antialiasingMode": "MSAA",
     "antialisingEnabledOnMobile": false,
     "folderProject": true,
-    "orientation": "landscape",
+    "orientation": "default",
     "packageName": "com.example.topdownrpg",
     "pixelsRounding": false,
     "projectUuid": "23540f25-c419-4c00-84cc-1a054bcadf76",
@@ -20,8 +20,8 @@
     "templateSlug": "top-down-rpg",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
-    "name": "Stoic Turn (Top down rpg)",
-    "description": "Reskin of snake",
+    "name": "Sky Adventure",
+    "description": "",
     "author": "",
     "windowWidth": 960,
     "windowHeight": 540,
@@ -79,14 +79,14 @@
       "placement": "bottom-left",
       "showWatermark": true
     },
-    "authorIds": [],
-    "authorUsernames": [],
-    "categories": [
-      "rpg"
+    "authorIds": [
+      "F4swhRoWoFUAHQV1UPUMxb7B9gn1"
     ],
-    "playableDevices": [
-      "keyboard"
+    "authorUsernames": [
+      "smdoan"
     ],
+    "categories": [],
+    "playableDevices": [],
     "extensionProperties": [],
     "platforms": [
       {
@@ -1071,6 +1071,434 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Sokoban/Player/3a6ea4cbda1c59eaee133840715b12f37782875d6c0111e8af581048503e9568_Player Face_Idle.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Parallax Background Sky.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "303843591493620bd620aabe58e3cc6de8219999db9c23edb60dbbbac25d1e8b_tiled_Parallax Background Sky.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Backgrounds/303843591493620bd620aabe58e3cc6de8219999db9c23edb60dbbbac25d1e8b_tiled_Parallax Background Sky.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cloud 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud 5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/5f22381785b74cf9c2f6532a15026df7ddc8156c1dda68c44847d4ca7828c95b_cloud 5.png",
+          "name": "cloud 5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cloud 8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud 8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/8a35cd09be4dfc4399dc4fa080027afa87e160ef4d8f4928ee8609b53c3e2c4e_cloud 8.png",
+          "name": "cloud 8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cloud 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/98ee47e760ab7235859c2c84943e3d33a32a06676c052fff83f17ba7bd753a04_cloud 2.png",
+          "name": "cloud 2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Palm tree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Palm tree.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Plant/7aedb2f01f10626d3e50311155624125089de15d25c6beeb8892dd95f664343d_Palm tree.png",
+          "name": "Palm tree.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red house 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red house 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Building/9ec8e36fb693f3452e09e4b1db4b9f2dd033752b57ef0462ff4ad9b6806dc6f4_Red house 1.png",
+          "name": "Red house 1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dead tree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dead tree.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Plant/846b59822ab0404e7eab27f180ba98c77b7fd1125eafb1062dd329406b76d111_Dead tree.png",
+          "name": "Dead tree.png"
+        }
+      },
+      {
+        "file": "assets/VT323-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Transparent Button With White Blue Border_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Transparent Button With White Blue Border_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/6d8e529f898d0d1cfc8e94ba10ae0a01e0a31b08bc0d11ec35074a34f3485f55_Transparent Button With White Blue Border_Hovered.png",
+          "name": "Transparent Button With White Blue Border_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Transparent Button With White Blue Border_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Transparent Button With White Blue Border_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/7311d88d62c25c9a5e7ed4f2031f4d58fabe564e093b203e62e467a1a995ed32_Transparent Button With White Blue Border_Idle.png",
+          "name": "Transparent Button With White Blue Border_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Transparent Button With White Blue Border_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Transparent Button With White Blue Border_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c18e2e342a2cce350f068208df2b7f5549dc600d2201609b1d3d76c497fffd30_Transparent Button With White Blue Border_Pressed.png",
+          "name": "Transparent Button With White Blue Border_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Kenney Mini Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Kenney Mini Square.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5e2e3fcc57885d5e510934e621be5f8dd7a5b6425cf46ef38073e3d2c3b04048_Kenney Mini Square.ttf",
+          "name": "Kenney Mini Square.ttf"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Winter Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "7f5947651f3460ece61f069c3bbde41e393a3cd509e1651d585f879a251488b2_Winter Background.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Worlds/Winter/Background/7f5947651f3460ece61f069c3bbde41e393a3cd509e1651d585f879a251488b2_Winter Background.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tree.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "fab583c8c0628dcb0237622a733147423a290d82fe77dbb7c86e27747cd08b9e_Tree.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Wesxdz Game Assets/skullcup/Nature/fab583c8c0628dcb0237622a733147423a290d82fe77dbb7c86e27747cd08b9e_Tree.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Flowers.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Flowers.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Rocks and Trees/Plant/57724bdc375d5bafba88ece0f8d72de38ec8488d7408f7fda5a0c81068349024_Flowers.glb",
+          "name": "Flowers.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Grass 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Grass 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Background Element/Plant/7dc65d1440e0c54ff91a138466802b3f97bf5c522c84906872960112dda9a433_Grass 2.png",
+          "name": "Grass 2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Skull.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Skull.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Objects/Other Objects/28603bd0f5781a97768845dfd9fab307a8eaa686eddd3e25e65713c74bdde828_Skull.png",
+          "name": "Skull.png"
+        }
+      },
+      {
+        "file": "assets/Birch Tree Dead 1.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Birch Tree Dead 1.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Rocks and Trees/Plant/cb21aa802f71c3c7a9231cf97be80fcd29e4088888fad8cea37c5cb748ab690a_Birch Tree Dead 1.glb",
+          "name": "Birch Tree Dead 1.glb"
+        }
+      },
+      {
+        "file": "assets/Birch Tree Dead 4.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Birch Tree Dead 4.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Rocks and Trees/Plant/42646e17a84165a4dab6286e745b52228aebd8f6dff5e85deae26b0604a09acd_Birch Tree Dead 4.glb",
+          "name": "Birch Tree Dead 4.glb"
+        }
+      },
+      {
+        "file": "assets/Willow 5.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Willow 5.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Rocks and Trees/Plant/7fe7c128d16918dad7c7906845b89da542ca783a05831d47f83441be2d8bdd2a_Willow 5.glb",
+          "name": "Willow 5.glb"
+        }
+      },
+      {
+        "file": "assets/Birch Tree 4.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Birch Tree 4.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Rocks and Trees/Plant/b7832e0b7053386e01a0b73bad3491b7167d9e68b02a7b7670d7a8e89ade06fc_Birch Tree 4.glb",
+          "name": "Birch Tree 4.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Next_Blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cdcedc27442b5f692577945566147cf9d006bf9094f4640922e90eef0721f400_Next_Blue.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/Simple Wares Buttons/cdcedc27442b5f692577945566147cf9d006bf9094f4640922e90eef0721f400_Next_Blue.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Home Key.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Home Key.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Xelu Free Controller and Key Prompts/Keyboard/Light/d6ffa411024b6f344f3bc7401ebf1cc1e933899a293e57bde59ce0b6f1941b3c_Home Key.png",
+          "name": "Home Key.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Return.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Return.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/c7c1b0a7a6c0d005c7d7b50d6914d0fb13f84729fb493e4d4f58ce320685eb30_Return.png",
+          "name": "Return.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Redo.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Redo.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Flat/71a733fd30f5c15d7aa0205408132801baf51c744ddc854e74ae247f5e10132d_Redo.png",
+          "name": "Redo.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mouse-Middle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Mouse-Middle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Shadow/7ab90ded680b93bb327798f3b62598d6bb8fc6e83cf26e10d935d2dae90ea8e5_Mouse-Middle.png",
+          "name": "Mouse-Middle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Home.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Home.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Flat/82549ff7c4182dba21f303ab5e365f0c2aa28ed5ec59be84c933db07a9f3e019_Home.png",
+          "name": "Home.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Redo2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Redo.png2",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Shadow/da5c1b1e54ab4e02cec2f46820b689556e8c6c0bedeaefb92b0b6a046639b0be_Redo.png",
+          "name": "Redo.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Redo3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "da5c1b1e54ab4e02cec2f46820b689556e8c6c0bedeaefb92b0b6a046639b0be_Redo.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Shadow/da5c1b1e54ab4e02cec2f46820b689556e8c6c0bedeaefb92b0b6a046639b0be_Redo.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Redo4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "71a733fd30f5c15d7aa0205408132801baf51c744ddc854e74ae247f5e10132d_Redo.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Flat/71a733fd30f5c15d7aa0205408132801baf51c744ddc854e74ae247f5e10132d_Redo.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Retry.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cc0cb4e9134b2f362d8145f10a42d356d3f10bb6e432187d81c25f164099812c_Retry.png",
+        "smoothed": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Interface/Casual Buttons Pack/cc0cb4e9134b2f362d8145f10a42d356d3f10bb6e432187d81c25f164099812c_Retry.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Button_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c1e14acb64b9963341656c997853154dc4c86cd1c46fb12bfbe012d99712ef61_Yellow Button_Hovered.png",
+          "name": "Yellow Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Button_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1cacfd123a1eb708837337c27982f6871f5127c5890dbf0775e0f411958fcbf1_Yellow Button_Idle.png",
+          "name": "Yellow Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Button_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/928c3ea4db1da835c9f8cc5b7089a47228350209d2ff489e1484c31e5ce41b3d_Yellow Button_Pressed.png",
+          "name": "Yellow Button_Pressed.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1181,10 +1609,18 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/battle"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/instructions"
     }
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/buttonstates"
+    },
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/tiledunitsbar"

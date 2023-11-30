@@ -1,8 +1,8 @@
 {
   "b": 209,
   "disableInputWhenNotFocused": true,
-  "mangledName": "Start_32Scene",
-  "name": "Start Scene",
+  "mangledName": "Instructions",
+  "name": "Instructions",
   "r": 209,
   "standardSortMethod": true,
   "stopSoundsOnStartup": true,
@@ -26,14 +26,15 @@
   "instances": [
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 543,
       "layer": "",
-      "name": "Background",
-      "persistentUuid": "b24f9871-2d10-4a92-a74a-d3ebdbfb9939",
-      "width": 0,
-      "x": -55,
-      "y": -164,
+      "name": "NewSprite",
+      "persistentUuid": "3120537b-33f7-418c-8f87-e9973d1fc259",
+      "width": 964,
+      "x": 0,
+      "y": 0,
       "zOrder": 1,
       "numberProperties": [],
       "stringProperties": [],
@@ -41,14 +42,15 @@
     },
     {
       "angle": 0,
-      "customSize": false,
-      "height": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 172,
       "layer": "",
-      "name": "Start_Text",
-      "persistentUuid": "701e0ee7-8294-4a4a-bce3-2a48f574acf7",
-      "width": 0,
-      "x": 318,
-      "y": 70,
+      "name": "Cloud5",
+      "persistentUuid": "6e8bb673-4c0a-40a9-bb6f-fcb5bb1beecd",
+      "width": 247,
+      "x": 741,
+      "y": 317,
       "zOrder": 2,
       "numberProperties": [],
       "stringProperties": [],
@@ -58,142 +60,30 @@
       "angle": 0,
       "customSize": true,
       "depth": 1,
-      "height": 52,
+      "height": 170,
       "layer": "",
-      "name": "Heart",
-      "persistentUuid": "b467c5f0-eaf2-4574-ab83-5eb8efc55558",
-      "width": 62,
-      "x": 713,
-      "y": 78,
+      "name": "Cloud8",
+      "persistentUuid": "74bc3972-7d60-41b6-a411-dad7d98fc212",
+      "width": 337,
+      "x": -61,
+      "y": 279,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 175,
+      "layer": "",
+      "name": "Cloud2",
+      "persistentUuid": "e39377df-a326-4224-8d9a-1a50e39ed4bc",
+      "width": 254,
+      "x": 617,
+      "y": 374,
       "zOrder": 4,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 52,
-      "layer": "",
-      "name": "Heart",
-      "persistentUuid": "676a188a-2eb1-4427-b362-81d4b1be8e3a",
-      "width": 62,
-      "x": 216,
-      "y": 72,
-      "zOrder": 4,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 128,
-      "layer": "",
-      "name": "SummerTileWaterWaves",
-      "persistentUuid": "136bba67-1d59-4793-b4ee-67e006226418",
-      "width": 976,
-      "x": -4,
-      "y": 411,
-      "zOrder": 5,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 75,
-      "layer": "",
-      "name": "RubberDuck",
-      "persistentUuid": "d4ddcff9-fe95-482d-9b81-7b2d2b6476f3",
-      "width": 76,
-      "x": 699,
-      "y": 435,
-      "zOrder": 6,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 75,
-      "layer": "",
-      "name": "RubberDuck",
-      "persistentUuid": "88199939-174c-446e-9528-23f11799fc4a",
-      "width": 76,
-      "x": 578,
-      "y": 375,
-      "zOrder": 6,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 75,
-      "layer": "",
-      "name": "RubberDuck",
-      "persistentUuid": "8d73fdee-5c74-4f6d-8f30-b5578cbc1192",
-      "width": 76,
-      "x": 393,
-      "y": 434,
-      "zOrder": 6,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 75,
-      "layer": "",
-      "name": "RubberDuck",
-      "persistentUuid": "39c11b41-3089-4e81-b770-77c9b1b2280b",
-      "width": 76,
-      "x": 233,
-      "y": 375,
-      "zOrder": 6,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 75,
-      "layer": "",
-      "name": "RubberDuck",
-      "persistentUuid": "52f230ad-d8c7-433e-aec5-49aa5fcf1e4b",
-      "width": 76,
-      "x": 47,
-      "y": 436,
-      "zOrder": 6,
-      "numberProperties": [],
-      "stringProperties": [],
-      "initialVariables": []
-    },
-    {
-      "angle": 0,
-      "customSize": true,
-      "depth": 1,
-      "height": 75,
-      "layer": "",
-      "name": "RubberDuck",
-      "persistentUuid": "50958578-4bc1-4444-ad21-5f8e455743a9",
-      "width": 76,
-      "x": 879,
-      "y": 399,
-      "zOrder": 6,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -203,12 +93,89 @@
       "customSize": false,
       "height": 0,
       "layer": "",
-      "name": "StartButton",
-      "persistentUuid": "d02e3ca6-bd8c-4480-897e-f835f2ab3887",
+      "name": "Cloud5",
+      "persistentUuid": "dc5b18c4-d728-49aa-a101-f0547fbfdc9f",
       "width": 0,
-      "x": 353,
-      "y": 171,
+      "x": 30,
+      "y": 327,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "PalmTree",
+      "persistentUuid": "d53cd95d-2dbb-43bc-82c2-b69f1077d074",
+      "width": 0,
+      "x": 676,
+      "y": 67,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 209,
+      "layer": "",
+      "name": "RedHouse1",
+      "persistentUuid": "72c3c178-2bb0-41db-aa84-9b7eacb3c5b3",
+      "width": 208,
+      "x": 8,
+      "y": 337,
       "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "NewText",
+      "persistentUuid": "560d2ef8-9798-453c-8810-5ac2caa141ed",
+      "width": 0,
+      "x": 234,
+      "y": 28,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 350,
+      "layer": "",
+      "name": "NewText2",
+      "persistentUuid": "80eb7896-f6b9-46c3-9b12-82217ad16028",
+      "width": 720,
+      "x": 102,
+      "y": 122,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "NextButton",
+      "persistentUuid": "6b65cf69-a3be-48f5-aac6-24ec8e216fcf",
+      "width": 0,
+      "x": 389,
+      "y": 459,
+      "zOrder": 10,
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
@@ -218,7 +185,7 @@
     {
       "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Background",
+      "name": "NewSprite",
       "type": "Sprite",
       "updateIfNotVisible": false,
       "variables": [],
@@ -235,7 +202,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "95a29ad64dac1d147725f9a7e6e28396b918fa3b06113400dac1abd5c14dde47_tiled_Castles Background.png",
+                  "image": "303843591493620bd620aabe58e3cc6de8219999db9c23edb60dbbbac25d1e8b_tiled_Parallax Background Sky.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -255,16 +222,376 @@
                         "y": 0
                       },
                       {
-                        "x": 1024,
+                        "x": 340,
                         "y": 0
                       },
                       {
-                        "x": 1024,
-                        "y": 1024
+                        "x": 340,
+                        "y": 400
                       },
                       {
                         "x": 0,
-                        "y": 1024
+                        "y": 400
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "cdbd554cf6ba00bd9c2eee31358f402a23046bd9282a3dbfd73e01ff39d44316",
+      "name": "Cloud5",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "cloud 5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 406,
+                        "y": 0
+                      },
+                      {
+                        "x": 406,
+                        "y": 242
+                      },
+                      {
+                        "x": 0,
+                        "y": 242
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "e33941951a5104fa7e71d2913ab3de46ff86c7f6ca89062d9b5677fa33b61d89",
+      "name": "Cloud8",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "cloud 8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 500,
+                        "y": 0
+                      },
+                      {
+                        "x": 500,
+                        "y": 292
+                      },
+                      {
+                        "x": 0,
+                        "y": 292
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "15c79aaf4ddd61249345cf35316854e3f7dff09033de3f5f2380d1539640086a",
+      "name": "Cloud2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "cloud 2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 392,
+                        "y": 0
+                      },
+                      {
+                        "x": 392,
+                        "y": 312
+                      },
+                      {
+                        "x": 0,
+                        "y": 312
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "38a0b0af0b8b89b92dc6ef7f132fadba67eadb1185172ab9daa04fea6718da35",
+      "name": "PalmTree",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Palm tree.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 400,
+                        "y": 0
+                      },
+                      {
+                        "x": 400,
+                        "y": 476
+                      },
+                      {
+                        "x": 0,
+                        "y": 476
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "79e8ae676ffb22882a04cecc263ff40ee9ee75c7c25c88cba2063a3fe39a4727",
+      "name": "RedHouse1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Red house 1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 335,
+                        "y": 0
+                      },
+                      {
+                        "x": 335,
+                        "y": 448
+                      },
+                      {
+                        "x": 0,
+                        "y": 448
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "5b7313c367921e740ea26b81c449e604add5a355d013221ac64030289cf13e2e",
+      "name": "DeadTree",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.025,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Dead tree.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 343,
+                        "y": 0
+                      },
+                      {
+                        "x": 343,
+                        "y": 493
+                      },
+                      {
+                        "x": 0,
+                        "y": 493
                       }
                     ]
                   ]
@@ -277,455 +604,106 @@
     },
     {
       "assetStoreId": "",
-      "bold": true,
+      "bold": false,
       "italic": false,
-      "name": "Start_Text",
+      "name": "NewText",
       "smoothed": true,
       "type": "TextObject::Text",
       "underlined": false,
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "string": "Sky Adventure",
-      "font": "72daf4dcb53d21803dfb807249302a05c8875978706bda48a6a9770a5cdaa608_MPLUS1p-Regular.ttf",
+      "string": "Instructions",
+      "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
       "textAlignment": "center",
-      "characterSize": 50,
+      "characterSize": 100,
       "color": {
-        "b": 255,
-        "g": 255,
-        "r": 255
+        "b": 138,
+        "g": 93,
+        "r": 134
       }
     },
     {
-      "adaptCollisionMaskAutomatically": true,
       "assetStoreId": "",
-      "name": "Start",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
+      "bold": false,
+      "italic": false,
+      "name": "NewText2",
+      "smoothed": true,
+      "type": "TextObject::Text",
+      "underlined": false,
       "variables": [],
       "effects": [],
       "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": false,
-              "timeBetweenFrames": 0.08,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "af87394b4707010a2281763087265785806d2b7186ca81954397d17e923d5b3c_Start_Alt.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 5,
-                        "y": 24
-                      },
-                      {
-                        "x": 97,
-                        "y": 24
-                      },
-                      {
-                        "x": 97,
-                        "y": 76
-                      },
-                      {
-                        "x": 5,
-                        "y": 76
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "string": "- Left, Right, Up, and Down Arrow Keys To Move\n\n- Collect Ducks to earn points!\n\n- Avoid any obstacles (Bombs)\n\n- Collect Power-Ups!! They will give you a speed boost\n\n- Health is set default to 3 Health\n",
+      "font": "8612da6519a39bab40fb3fb527dd7574679e45f603b2be582cf2d47a6b12b93f_VT323-Regular.ttf",
+      "textAlignment": "center",
+      "characterSize": 40,
+      "color": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      }
     },
     {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "0e405fb0e86498075ae3fb9d1de25c8ff1d4481f0c963d9460126d76f5d66736",
-      "name": "RubberDuck",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Rubber Duck.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 4,
-                        "y": 3
-                      },
-                      {
-                        "x": 28,
-                        "y": 3
-                      },
-                      {
-                        "x": 28,
-                        "y": 28
-                      },
-                      {
-                        "x": 4,
-                        "y": 28
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "b8f1032cb0af71524c2809bc8136887ac440949705377ea6ffa4ab1ec398dbd5",
-      "name": "MoneySymbol",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.025,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Money Symbol.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 25,
-                        "y": 0
-                      },
-                      {
-                        "x": 25,
-                        "y": 25
-                      },
-                      {
-                        "x": 0,
-                        "y": 25
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "adaptCollisionMaskAutomatically": true,
-      "assetStoreId": "fe4e4b881d2b682173254f5c5ff9d805309be4ce4e190e2b26c0195e636ed135",
-      "name": "Heart",
-      "type": "Sprite",
-      "updateIfNotVisible": false,
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "animations": [
-        {
-          "name": "Spinning",
-          "useMultipleDirections": false,
-          "directions": [
-            {
-              "looping": true,
-              "timeBetweenFrames": 0.125,
-              "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Heart_Spinning_1.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 16,
-                        "y": 0
-                      },
-                      {
-                        "x": 16,
-                        "y": 16
-                      },
-                      {
-                        "x": 0,
-                        "y": 16
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Heart_Spinning_2.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 16,
-                        "y": 0
-                      },
-                      {
-                        "x": 16,
-                        "y": 16
-                      },
-                      {
-                        "x": 0,
-                        "y": 16
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Heart_Spinning_3.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 16,
-                        "y": 0
-                      },
-                      {
-                        "x": 16,
-                        "y": 16
-                      },
-                      {
-                        "x": 0,
-                        "y": 16
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "Heart_Spinning_4.png",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 0,
-                        "y": 0
-                      },
-                      {
-                        "x": 16,
-                        "y": 0
-                      },
-                      {
-                        "x": 16,
-                        "y": 16
-                      },
-                      {
-                        "x": 0,
-                        "y": 16
-                      }
-                    ]
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "assetStoreId": "b0177c5efda4a9ed258ed34e291aae0c60373aeee6316b4a23bdd3a0bdec5fc0",
-      "height": 128,
-      "name": "SummerTileWaterWaves",
-      "texture": "tiled_Summer Tile Water Waves.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 128,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "assetStoreId": "ce438ae9cd9906b0ae2a1fe9d87862f94a10534f1784865511d8c9751c6b6bb5",
-      "height": 128,
-      "name": "BackgroundMountains",
-      "texture": "tiled_Background Mountains.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 128,
-      "variables": [],
-      "effects": [],
-      "behaviors": []
-    },
-    {
-      "assetStoreId": "bfab3a269992cf43081e2cb8053c28aaef11f2f9e0d0cbdc00207ea271f69c2c",
-      "name": "StartButton",
+      "assetStoreId": "f0c3d7ae6099e3b9b8beed4e30b555107550b4fb2a5879e984a014b1e06865bf",
+      "name": "NextButton",
       "type": "PanelSpriteButton::PanelSpriteButton",
       "variables": [],
       "effects": [],
       "behaviors": [],
       "content": {
-        "LeftPadding": 16,
-        "RightPadding": 16,
-        "PressedLabelOffsetY": 10,
-        "BottomPadding": 32,
-        "TopPadding": 16,
-        "HoveredFadeOutDuration": 0.25
+        "LeftPadding": 0,
+        "RightPadding": 0,
+        "PressedLabelOffsetY": 4,
+        "BottomPadding": 6,
+        "TopPadding": 0,
+        "HoveredFadeOutDuration": 0
       },
       "childrenContent": {
         "Hovered": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Grey Button_Hovered.png",
-          "tiled": true,
-          "topMargin": 16,
-          "width": 256
+          "bottomMargin": 10,
+          "height": 64,
+          "leftMargin": 6,
+          "rightMargin": 6,
+          "texture": "Transparent Button With White Blue Border_Hovered.png",
+          "tiled": false,
+          "topMargin": 10,
+          "width": 192
         },
         "Idle": {
-          "bottomMargin": 32,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Grey Button_Idle.png",
-          "tiled": true,
-          "topMargin": 16,
-          "width": 256
+          "bottomMargin": 10,
+          "height": 64,
+          "leftMargin": 6,
+          "rightMargin": 6,
+          "texture": "Transparent Button With White Blue Border_Idle.png",
+          "tiled": false,
+          "topMargin": 10,
+          "width": 192
         },
         "Label": {
           "bold": false,
           "italic": false,
           "smoothed": true,
           "underlined": false,
-          "string": "Start!",
-          "font": "",
+          "string": "Next",
+          "font": "Kenney Mini Square.ttf",
           "textAlignment": "center",
-          "characterSize": 60,
+          "characterSize": 45,
           "color": {
-            "b": 79,
-            "g": 72,
-            "r": 72
+            "b": 255,
+            "g": 255,
+            "r": 255
           }
         },
         "Pressed": {
-          "bottomMargin": 16,
-          "height": 106,
-          "leftMargin": 16,
-          "rightMargin": 16,
-          "texture": "Grey Button_Pressed.png",
-          "tiled": true,
-          "topMargin": 32,
-          "width": 256
+          "bottomMargin": 10,
+          "height": 64,
+          "leftMargin": 6,
+          "rightMargin": 6,
+          "texture": "Transparent Button With White Blue Border_Pressed.png",
+          "tiled": false,
+          "topMargin": 10,
+          "width": 192
         }
       }
     }
@@ -734,31 +712,34 @@
     "folderName": "__ROOT",
     "children": [
       {
-        "objectName": "Background"
+        "objectName": "NewSprite"
       },
       {
-        "objectName": "Start_Text"
+        "objectName": "Cloud5"
       },
       {
-        "objectName": "Start"
+        "objectName": "Cloud8"
       },
       {
-        "objectName": "RubberDuck"
+        "objectName": "Cloud2"
       },
       {
-        "objectName": "MoneySymbol"
+        "objectName": "PalmTree"
       },
       {
-        "objectName": "Heart"
+        "objectName": "RedHouse1"
       },
       {
-        "objectName": "SummerTileWaterWaves"
+        "objectName": "DeadTree"
       },
       {
-        "objectName": "BackgroundMountains"
+        "objectName": "NewText"
       },
       {
-        "objectName": "StartButton"
+        "objectName": "NewText2"
+      },
+      {
+        "objectName": "NextButton"
       }
     ]
   },
@@ -771,12 +752,27 @@
             "value": "PanelSpriteButton::PanelSpriteButton::IsPressed"
           },
           "parameters": [
-            "StartButton",
+            "NextButton",
             ""
           ]
         }
       ],
       "actions": [
+        {
+          "type": {
+            "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
+          },
+          "parameters": [
+            "Transition",
+            "FlashTransitionPainter",
+            "\"0;0;0\"",
+            "1",
+            "\"Circular\"",
+            "\"Forward\"",
+            "",
+            ""
+          ]
+        },
         {
           "type": {
             "value": "PlaySound"
@@ -785,23 +781,8 @@
             "",
             "Talk.wav",
             "",
-            "20",
-            ""
-          ]
-        },
-        {
-          "type": {
-            "value": "FlashTransitionPainter::FlashTransitionPainter::PaintEffect"
-          },
-          "parameters": [
-            "Transition",
-            "FlashTransitionPainter",
-            "\"156;230;217\"",
-            "1",
-            "\"Circular\"",
-            "\"Forward\"",
-            "255",
-            ""
+            "",
+            "50"
           ]
         },
         {
@@ -814,11 +795,66 @@
         },
         {
           "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "Cloud8",
+            "Opacity",
+            "=",
+            "100"
+          ]
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "Cloud2",
+            "Opacity",
+            "=",
+            "100"
+          ]
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "Cloud5",
+            "Opacity",
+            "=",
+            "100"
+          ]
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "PalmTree",
+            "Opacity",
+            "=",
+            "200"
+          ]
+        },
+        {
+          "type": {
+            "value": "OpacityCapability::OpacityBehavior::SetValue"
+          },
+          "parameters": [
+            "RedHouse1",
+            "Opacity",
+            "=",
+            "200"
+          ]
+        },
+        {
+          "type": {
             "value": "PushScene"
           },
           "parameters": [
             "",
-            "\"Instructions\""
+            "\"Overworld\""
           ]
         }
       ]
